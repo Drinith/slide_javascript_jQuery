@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+#container {
+	width: 1020px;
+	height: 800px;
+	margin: auto;
+	background-color: #CED3DC;
+	
+}
+
+#slide{
+	width: 620px;
+	height: 296px;
+	background-color: black;
+	margin: auto;
+	position: relative;
+	top: 56px;
+}
+
+#image{
+	postion: absolute;
+	width: 620px;
+	height: 296px;
+}
+
+#setaesquerda {
+	position: absolute;
+	top: 120px;
+	left: 12px;
+}
+
+#setaesquerda:hover{
+	cursor: pointer;
+}
+
+#setadireita:hover{
+	cursor: pointer;
+}
+
+#setadireita {
+	position: absolute;
+	top: 120px;
+	right: 12px;
+	
+}
