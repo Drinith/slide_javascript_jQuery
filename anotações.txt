@@ -1,0 +1,15 @@
+Broder,
+
+Vi lá o PetZoo, ficou bem legal. Parabéns!
+
+Preparei um outro desafio.
+
+Agora, vamos além do HTML+CSS e colocar o Javascript pra funcionar.
+Esse é componente que a gente usa muito, um Slider. 
+No PSD em anexo, tem o layout e demonstração dos comportamentos e ações de mouse click e mouse over.
+
+Dica: Usar o framework http://jquery.org pode ajudar muito.
+
+Abraços,
+
+ps. Ahm claro, não vale usar solução pronta de slider.. hehe
